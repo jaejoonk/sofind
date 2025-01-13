@@ -2,6 +2,7 @@ system_paths:
   della: /scratch/gpfs/ACT/dr6v4/simulations/noise
   perlmutter: /global/cfs/cdirs/act/data/act_dr6v4/simulations/noise
   dirac: /rds/project/dirac_vol5/rds-dirac-dp002/AdvACT/simulations/mnms/
+  niagara: /scratch/r/rbond/jaejoonk/dr6plus_noise_sims/
 
 allowed_qids_configs:
 - act_dr6vX_qids.yaml

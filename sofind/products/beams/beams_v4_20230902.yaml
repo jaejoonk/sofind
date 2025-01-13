@@ -1,6 +1,7 @@
 system_paths:
   perlmutter: /global/cfs/cdirs/act/data/adriaand/beams/20230902_beams/
   dirac: /rds/project/dirac_vol5/rds-dirac-dp002/AdvACT/DR6_products/v4_maps/20230902_beams/
+  niagara: /project/r/rbond/jaejoonk/lensing_pipeline_data/beams_path/20230902/
 
 allowed_qids_configs:
 - act_dr6vX_qids.yaml

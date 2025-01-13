@@ -1,6 +1,7 @@
 system_paths:
   perlmutter:
   dirac: /rds/project/dirac_vol5/rds-dirac-dp002/AdvACT/DR6_products/calibration/dr6_v4_240410/
+  niagara: /project/r/rbond/jaejoonk/lensing_pipeline_data/calibration/dr6_v4_240410/
 
 allowed_qids_configs:
 - act_dr6vX_qids.yaml

@@ -1,10 +1,12 @@
 system_paths:
   della: /scratch/gpfs/zatkins/data/simonsobs/mnms/catalogs
   perlmutter: /global/cfs/cdirs/act/data/catalogs/inpaint_catalogs_20220316
-  dirac: /rds/project/dirac_vol5/rds-dirac-dp002/AdvACT/catalogues/inpaint_catalogs/
+  dirac: /rds/project/dirac_vol5/rds-dirac-dp002/AdvACT/catalogues/inpaint_catalogs
+  niagara: /home/r/rbond/jiaqu/projects/catalogs/inpaint_catalogs_20241002
 
 allowed_qids_configs: 'all'
 
 allowed_qids: 'all'
 
 allowed_qids_extra_kwargs:
+

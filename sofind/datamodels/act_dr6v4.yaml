@@ -10,6 +10,7 @@ maps:
 masks:
   mnms_masks_config: mnms_masks.yaml
   lensing_masks: lensing_masks.yaml
+  lensing_masks_20240919b: lensing_masks_20240919b.yaml
 
 catalogs:
   inpaint_catalogs_config: inpaint_catalogs.yaml

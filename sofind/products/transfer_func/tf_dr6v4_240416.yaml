@@ -1,6 +1,8 @@
 system_paths:
   perlmutter: /global/cfs/cdirs/act/data/alaposta/transfer_functions/dr6_v4_legacy_240416/
   dirac: /rds/project/dirac_vol5/rds-dirac-dp002/AdvACT/DR6_products/transfer_functions/dr6_v4_legacy_240416/
+  niagara: /scratch/r/rbond/jaejoonk/lensing_pipeline_data/transfer_functions/dr6_v4_legacy_240416/
+
 
 allowed_qids_configs:
 - act_dr6vX_qids.yaml

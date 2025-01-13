@@ -1,6 +1,7 @@
 system_paths:
   della: 
   dirac: /rds/project/dirac_vol5/rds-dirac-dp002/AdvACT/DR6_products/beams/planck_beams/
+  niagara: /scratch/r/rbond/jaejoonk/lensing_pipeline_data/planck_beams/
 
 allowed_qids_configs:
 - act_dr6vX_qids.yaml
